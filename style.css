@@ -1,0 +1,24 @@
+img {
+  margin-top: 30px;
+  height: 200px;
+  width: 290px;
+  border: 3px solid white;
+}
+
+img:hover {
+  box-shadow: white 2px 0px 15px 0px;
+}
+
+.fondoGOT {
+  background-image: url(img/277eb1d795931a400e9f31956d3d788b.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#lista{
+  background-color: rgba(0, 0, 0, 0.815);
+  color: white;
+  text-align: left;
+  margin-top: 250px;
+  padding: 20px;
+}
